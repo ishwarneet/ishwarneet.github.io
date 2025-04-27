@@ -1,4 +1,3 @@
-# ishwarneet.github.io
-theme: jekyll-theme-minimal
-title: Ishwarneet's homepage
-description: Bookmark this to keep an eye on my project updates!
+# Ishwarneet Chahal
+# Project 1: Flight Data Analysis
+* Created a RShiny app to display EDA for an Airline Dataset
